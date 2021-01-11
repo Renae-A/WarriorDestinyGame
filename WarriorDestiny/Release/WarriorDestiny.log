@@ -1,0 +1,52 @@
+﻿  stdafx.cpp
+  ArmorBuyItems.cpp
+  ArmorSellItems.cpp
+  ArmorShop.cpp
+  BattleArena.cpp
+  BeastAlive.cpp
+  Body.cpp
+  BoyStall.cpp
+  Centaur.cpp
+  Cyclops.cpp
+  Demon.cpp
+  Dragon.cpp
+  Enemy.cpp
+  EnemyStatistics.cpp
+  Equip.cpp
+  EquippedItems.cpp
+  FireGrassWater.cpp
+  FireGrassWaterRules.cpp
+  Game.cpp
+  Ghoul.cpp
+  Giant.cpp
+  Compiling...
+  Item.cpp
+  ItemInfo.cpp
+  LoadGame.cpp
+  ManageInventory.cpp
+  ManStall.cpp
+  Markets.cpp
+  Minotaur.cpp
+  NumberGame.cpp
+  Ogre.cpp
+  Player.cpp
+  PracticeBattle.cpp
+  ReturnHome.cpp
+  SaveAndExit.cpp
+  BossCompetition.cpp
+  MainMenu.cpp
+  StringUtility.cpp
+  TalkArmor.cpp
+  TalkWeapon.cpp
+  TicTacToe.cpp
+  TicTacToeRules.cpp
+  Compiling...
+  Tournament.cpp
+  Unequip.cpp
+  WeaponBuyItems.cpp
+  WeaponSellItems.cpp
+  WeaponShop.cpp
+  Generating code
+  All 806 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WarriorDestiny.vcxproj -> D:\WarriorDestiny (1)\WarriorDestiny\Release\WarriorDestiny.exe

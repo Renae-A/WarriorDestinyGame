@@ -1,0 +1,10 @@
+#include "stdafx.h"
+#include "Ghoul.h"
+#include "Cyclops.h"
+#include "Centaur.h"
+#include "Ogre.h"
+#include "Demon.h"
+#include "Giant.h"
+#include "Minotaur.h"
+#include "Dragon.h"
+#pragma once
